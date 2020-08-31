@@ -11,6 +11,10 @@ let vegetables = [
 	'Onion'
 ];
 let drink = ['Red Wine', 'Vodka', 'Health Drink', 'Fruits Drink'];
+
+fruts.push('Orange', 'Kiwi');
+drink.push('Coffee', 'Tea');
+
 let foodList = [
 	'Bread',
 	'Spaghetti',
@@ -21,5 +25,7 @@ let foodList = [
 	...vegetables,
 	...drink
 ];
+
+foodList.push('Pizza', 'Fish', 'Bacon');
 
 console.log(foodList);
