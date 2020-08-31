@@ -7,9 +7,18 @@ let vegetables = [
 	'Tomato',
 	'Cucumber',
 	'Mushroom',
-	'Carrot'
+	'Carrot',
+	'Onion'
 ];
 let drink = ['Red Wine', 'Vodka', 'Health Drink', 'Fruits Drink'];
-let foodList = ['Bread', 'Beef', 'Potato', ...fruts, ...vegetables, ...drink];
+let foodList = [
+	'Bread',
+	'Spaghetti',
+	'Beef',
+	'Potato',
+	...fruts,
+	...vegetables,
+	...drink
+];
 
 console.log(foodList);
