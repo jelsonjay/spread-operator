@@ -14,6 +14,7 @@ let drink = ['Red Wine', 'Vodka', 'Health Drink', 'Fruits Drink'];
 let foodList = [
 	'Bread',
 	'Spaghetti',
+	'Chiken',
 	'Beef',
 	'Potato',
 	...fruts,
