@@ -9,4 +9,6 @@ let vegetables = [
 	'Mushroom',
 	'Carrot'
 ];
-let foodList = ['Bread', ''];
+let foodList = ['Bread', 'Beef', 'Potato', ...fruts, ...vegetables];
+
+console.log(foodList);
