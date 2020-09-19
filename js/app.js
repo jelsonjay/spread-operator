@@ -12,7 +12,7 @@ let vegetables = [
 ];
 let drink = ['Red Wine', 'Vodka', 'Health Drink', 'Fruits Drink'];
 
-fruts.push('Orange', 'Kiwi');
+fruts.push('Orange', 'Kiwi', 'Banana', 'Avacado', 'Mango');
 drink.push('Coffee', 'Tea', 'Beer', 'Water', 'Cake', 'Lemonade', 'Iced tea');
 
 let foodList = [
