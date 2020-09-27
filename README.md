@@ -1,2 +1,2 @@
 # JavaScrip Spread-Operator
- simple javascritp spread operator with es6
+ simple javascritp spread operator using es6
